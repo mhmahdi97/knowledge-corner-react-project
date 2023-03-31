@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6426fd3ca1edca9e0068e7ad",
+    "blogTitle": "How To Become A Programmer",
+    "author": "Jhankar Mahbub",
+    "coverPicture": "https://www.programming-hero.com/blog/assets/images/blog/how-to-become-a-programmer.png",
+    "authorImg": "https://scontent.fdac110-1.fna.fbcdn.net/v/t31.18172-8/12465913_1688603578082302_6870843335290695127_o.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=100&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoiYiJ9&_nc_eui2=AeHoVE0XNN8GOUNEjg7OB-seNfOvEq5YtN01868Srli03Uq5jJpRY3WLy-jQzkJlhXRjDSXDW0MZqlUOSrcxEh1f&_nc_ohc=6w3fvrWQsqAAX-ec8vw&_nc_ht=scontent.fdac110-1.fna&oh=00_AfAizWPKNLU9K53_8WhBwUeBpKWzBOg6XN8PEPWYkBAkbg&oe=644E7E2D",
+    "date": "3 Aug 2019",
+    "readingTime": "05"
+  },
+  {
+    "id": "6426fd3c3e9b213c5b2b8073",
+    "blogTitle": "Programming for Beginners",
+    "author": "Cheri Ratliff",
+    "coverPicture": "https://www.programming-hero.com/blog/assets/images/blog/Programming-For-Beginners.png",
+    "authorImg": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+    "date": "5 Aug 2020",
+    "readingTime": "10"
+  },
+  {
+    "id": "6426fd3ca6284dc281f858d0",
+    "blogTitle": "Why Avoiding Programming Is Bad For Your Business?",
+    "author": "Floyd Gill",
+    "coverPicture": "https://www.programming-hero.com/blog/assets/images/blog/why-avoiding-programming-is-bad-for-your-business.png",
+    "authorImg": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "date": "11 Aug 2020",
+    "readingTime": "12"
+  },
+  {
+    "id": "6426fd3c27fc23d53caa47d8",
+    "blogTitle": "This Is Why People Love Python Programming",
+    "author": "Conley Dejesus",
+    "coverPicture": "https://www.programming-hero.com/blog/assets/images/blog/this-is-why-people-love-python-programming.png",
+    "authorImg": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "date": "05 Sep 2020",
+    "readingTime": "22"
+  }
+]
