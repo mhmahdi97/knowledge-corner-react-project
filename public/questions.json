@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Props vs state in react",
+    "answer": "Props are inputs that are passed to a component, whereas state is used to manage a component's internal data and re-render it when the state changes."
+  },
+  {
+    "question": "How does useState works",
+    "answer": "useState is a React hook that allows you to add state to functional components. It returns an array with two elements: the current state value and a function to update it."
+  },
+  {
+    "question": "Purpose of useEffect other than fetching data from server",
+    "answer": "useEffect is a hook in React that allows you to perform side effects in functional components. It can be used for various purposes such as modifying the DOM, subscribing to events, and cleaning up resources."
+  },
+  {
+    "question": "How does React work",
+    "answer": "React is a JavaScript library for building user interfaces. It works by creating a virtual representation of the UI, which is then rendered to the actual DOM. React uses a declarative approach to describe how the UI should look based on the current state and props of the components."
+  }
+]
