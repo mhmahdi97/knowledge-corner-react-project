@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './Main.css'
 import Blog from '../Blog/Blog';
+import TimeSpent from '../TimeSpent/TimeSpent';
 
 const Main = () => {
     const [blogs, setBlogs] = useState([])
@@ -23,7 +24,7 @@ const Main = () => {
 
             </div>
             <div className='bookmarks-container'>
-                <h1>Hello</h1>
+                <TimeSpent></TimeSpent>
             </div>
         </div>
     );

@@ -1,0 +1,14 @@
+.time-spent-container{
+background: rgba(96, 71, 236, 0.1);
+border: 1px solid #6047EC;
+border-radius: 8px;
+padding: 14px 9px;
+margin-bottom: 24px;
+}
+
+.time-spent-container h5{
+font-size: 21px;
+line-height: 150%;
+text-align: center;
+color: #6047EC;
+}
