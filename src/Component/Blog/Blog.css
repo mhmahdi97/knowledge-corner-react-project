@@ -47,6 +47,10 @@
     margin-right: 10px;
 }
 
+.reading-time-container span{
+    cursor: pointer;
+}
+
 .blog-title{
 font-size: 35px;
 line-height: 160%;

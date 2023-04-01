@@ -7,10 +7,16 @@ import Bookmarks from '../Bookmarks/Bookmarks';
 const Main = () => {
     const [blogs, setBlogs] = useState([])
     const [readBlogs, setReadBlogs] = useState([]);
-    let totalTimeSpent = 0;
+    const [bookmarkedBlog, setBookmarkedBlog] = useState([]);
+    
     const handleReadBlogs = (blogs) =>{
         const newReadBlogs = [...readBlogs, blogs] 
         setReadBlogs(newReadBlogs)
+    }
+
+    const handleBookmarkedBlog = (blogs) =>{
+        const newbookmarkedBlog = [...bookmarkedBlog, blogs]
+        setBookmarkedBlog(newbookmarkedBlog);
     }
 
     useEffect(()=>{
@@ -28,6 +34,7 @@ const Main = () => {
                     key = {blog.id}
                     blog = {blog}
                     handleReadBlogs = {handleReadBlogs}
+                    handleBookmarkedBlog = {handleBookmarkedBlog}
                     ></Blog>)
                 }
 
@@ -36,7 +43,9 @@ const Main = () => {
                 <TimeSpent
                 readBlogs = {readBlogs}
                 ></TimeSpent>
-                <Bookmarks></Bookmarks>
+                <Bookmarks
+                bookmarkedBlog = {bookmarkedBlog}
+                ></Bookmarks>
             </div>
         </div>
     );
