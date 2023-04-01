@@ -26,6 +26,9 @@ const Blog = (props) => {
                     <p>{readingTime} min read</p> <span><FontAwesomeIcon icon={faBookmark} /></span>
                 </div>
             </div>
+        <h2 className='blog-title'>{blogTitle}</h2>
+        <p className='hash-tag'>#beginners  #programming</p>
+        <p className='mark-read'>Mark as read</p>
         </div>
     );
 };

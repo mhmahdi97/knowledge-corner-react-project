@@ -14,7 +14,6 @@ const Main = () => {
     return (
         <div className='main-container'>
             <div className='blogs-container'>
-                <h1>Hello</h1>
                 {
                     blogs.map(blog => <Blog
                     key = {blog.id}
