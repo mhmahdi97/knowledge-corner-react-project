@@ -25,7 +25,7 @@ const Main = () => {
         .then (data => setBlogs(data))
     }, [])
     
-    console.log(blogs)
+    // console.log(bookmarkedBlog)
     return (
         <div className='main-container'>
             <div className='blogs-container'>

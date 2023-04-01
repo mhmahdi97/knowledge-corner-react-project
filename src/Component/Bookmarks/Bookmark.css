@@ -4,3 +4,7 @@ border-radius: 8px;
 height: 100vh;
 padding: 30px;
 }
+
+.bookmarks-container h4{
+    margin-bottom: 16px;
+}
